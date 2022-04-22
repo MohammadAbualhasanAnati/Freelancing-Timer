@@ -1,4 +1,6 @@
 # Freelancing Timer
-The freelancing timer is a desktop time management app to track the time you spend on each freelancing project you work on. It is simple but it is practical and effective.
+The freelancing timer is a personal simple solution cross-platform desktop app for time management to track the time you spend on each freelancing project you work on.
 
-It is built with java and its libraries.
+It is built with the following:
+- Java
+- JavaFX
